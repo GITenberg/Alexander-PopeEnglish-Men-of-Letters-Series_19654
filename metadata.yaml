@@ -1,0 +1,32 @@
+_repo: Alexander-PopeEnglish-Men-of-Letters-Series_19654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: Prefatory note; 1. Early years; 2. First period of Pope's literary career;
+  3. Pope's Homer; 4. Pope at Twickenham; 5. The war with the Dunces; 6. Correspondence;
+  7. The Essay on Man; 8. Epistles and satires; 9. The end
+gutenberg_issued: '2006-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Letters
+subjects:
+- !lcsh 'Poets, English -- 18th century -- Biography'
+- !lcsh 'Pope, Alexander, 1688-1744'
+- !lcc 'PR'
+title: Alexander Pope
+url: http://www.gutenberg.org/ebooks/19654
